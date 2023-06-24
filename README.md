@@ -1,4 +1,4 @@
-# UTS-Machine-Learning
+# UTS & UAS - Machine-Learning
 
 - Nama  : Rifqi Fadhila Shandi
 - NIM   : 1103202042
